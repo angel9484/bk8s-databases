@@ -1,0 +1,5 @@
+cockroachdb:
+  tls:
+    enabled: false
+  statefulset:
+    replicas: 3 # change to 5 and helm upgrade cockroach cockroach/cockroach

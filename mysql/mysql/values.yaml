@@ -1,0 +1,3 @@
+cockroachdb:
+  tls:
+    enabled: false
